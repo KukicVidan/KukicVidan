@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my projects are available at [vidankukic.com](vidankukic.com)
+- 👨‍💻 All of my projects are available at [vidankukic.com](vidankukic.com) (Offline atm)
 
 - 📫 How to reach me **kukicvidan@gmail.com**
 
