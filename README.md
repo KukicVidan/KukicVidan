@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidan</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Rust and How to plant good onions**
 
 - 👨‍💻 All of my projects are available at [vidankukic.com](vidankukic.com) (Offline atm)
 
