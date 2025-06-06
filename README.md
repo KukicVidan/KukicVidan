@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [vidankukic.com](vidankukic.com) (Offline atm)
 
-- 📫 How to reach me **kukicvidan@gmail.com**
+- 📫 How to reach me **kukicvidan@gmail.com** or **balkanlinux@disroot.org**(less active)
 
 
 <p align="left">
