@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidan</h1>
 <h3 align="center">A passionate  developer</h3>
 
-- 🌱 I’m currently learning **Docker** and **Python**, and! How to plant good onions
+- 🌱 I’m currently learning **Kubernetes** and **Python**, and! How to plant good onions
 
 - 👨‍💻 All of my projects are available at [vidankukic.com](vidankukic.com) (Offline atm)
 
